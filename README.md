@@ -1,5 +1,7 @@
 # Chatbot_using_NLP_AICTE_Cycle
 Training for the project on implementation of chatbot using  NLP
+
+
 Description
 This project implements a simple chatbot using Natural Language Processing (NLP) techniques with nltk, scikit-learn, and streamlit for the user interface. The chatbot is designed to recognize user input patterns and provide appropriate responses based on predefined intents.
 
